@@ -110,7 +110,7 @@ The **Community Dashboard** is available [here](https://dash-community.herokuapp
   <br>
   
 
-- ### Instruments
+- ### Instructions
 
 1. Firstly, select a city from the Dropdown box. 
 2. Map styles and opacity are also adjustable for different visual effect.
