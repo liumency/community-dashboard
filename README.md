@@ -5,27 +5,23 @@ This is the repository for the [Community Dashboard](https://dash-community.hero
 
 
 
+
 ## Requirements
 
 * python==3.6.13
 
-
 * gunicorn
-
 
 * pandas==1.1.4
 
-
 * dash==1.20.0
-
 
 * dash_html_components==1.1.3
 
-
 * plotly==4.14.3
 
-
 * dash_core_components==1.16.0
+
 
 
 
@@ -92,7 +88,7 @@ git push heroku main
 
 For more information about the deployment, please check the following **references**:
 
-* [Getting Started on Heroku with Python](Getting Started on Heroku with Python | Heroku Dev Center)
+* [Getting Started on Heroku with Python](https://devcenter.heroku.com/articles/getting-started-with-python)
 
 * [Deploying Dash or Flask web application on Heroku](https://towardsdatascience.com/deploying-dash-or-flask-web-application-on-heroku-easy-ci-cd-4111da3170b8)
 
