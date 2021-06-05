@@ -27,7 +27,7 @@ This is the repository for the [Community Dashboard](https://dash-community.hero
 
 ## Preparation
 
-- [ ] ### Data
+> Data
 
 * Community  AOIs (Area of Interests) with contruction year of 115 cities in China  (see `data_csv/city_scale.txt` ) are collected.
 * All AOIs ('.shp') files are converted into  '.txt' and '.json' files.
@@ -41,7 +41,7 @@ This is the repository for the [Community Dashboard](https://dash-community.hero
 
 <br>
 
-- [ ] ### Code
+> Code
 
 Complete codes are provided in `app.py`.
 
@@ -89,7 +89,7 @@ git push heroku main
 
 <br>
 
-For more information about the deployment, please check the following **references**:
+>  For more information about the deployment, please check the following **references**:
 
 * [Getting Started on Heroku with Python](https://devcenter.heroku.com/articles/getting-started-with-python)
 
@@ -110,12 +110,12 @@ The **Community Dashboard** is available [here](https://dash-community.herokuapp
 
 - ### Instruments
 
-* Firstly, select a city from the Dropdown box. 
-* Map styles and opacity are also adjustable for different visual effect.
-* Then the **mapbox** would show the community of the selected city.
-* The **histogram** counts the number of newly-built communities per year.
+1. Firstly, select a city from the Dropdown box. 
+2. Map styles and opacity are also adjustable for different visual effect.
+3. Then the **mapbox** would show the community of the selected city.
+4. The **histogram** counts the number of newly-built communities per year.
 
-> ** It might take some time for initializatioin and update.
+** It might take some time for initializatioin and update.
   
 
 <br>
