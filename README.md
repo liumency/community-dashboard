@@ -3,7 +3,7 @@
 This is the repository for the [Community Dashboard](https://dash-community.herokuapp.com/), an app mapping the contruction year of chinese communities.  
 
 
-
+<br>
 
 
 ## Requirements
@@ -23,7 +23,7 @@ This is the repository for the [Community Dashboard](https://dash-community.hero
 * dash_core_components==1.16.0
 
 
-
+<br>
 
 ## Preparation
 
