@@ -39,7 +39,7 @@ This is the repository for the [Community Dashboard](https://dash-community.hero
 
 \* Noted that **not all communities are involved**, due to the restriction on data acquisition.  
 
-
+<br>
 
 - [ ] ### Code
 
@@ -49,6 +49,7 @@ Before you can successfully run the program, you need to apply for an **accessto
 
 ![]() ![code](images/code.png)  
 
+<br>
 
 
 ## Deploy
@@ -56,6 +57,7 @@ Before you can successfully run the program, you need to apply for an **accessto
 The app is deployed on [Heroku](https://dashboard.heroku.com/).  
 
 
+<br>
 
 > Firstly, to ensure a successful deployment, additional files need to be added into the repository:
 
@@ -69,7 +71,8 @@ The app is deployed on [Heroku](https://dashboard.heroku.com/).
 
 * `.gitignore`
 
-  ​
+<br>
+
 
 > Then deploy the app through Git Bash: 
 
@@ -84,7 +87,7 @@ git commit -m 'My-commit-message'
 git push heroku main
 ```  
 
-
+<br>
 
 For more information about the deployment, please check the following **references**:
 
@@ -92,14 +95,17 @@ For more information about the deployment, please check the following **referenc
 
 * [Deploying Dash or Flask web application on Heroku](https://towardsdatascience.com/deploying-dash-or-flask-web-application-on-heroku-easy-ci-cd-4111da3170b8)
 
-  ​
+ <br>
+ 
   
 ## Dashboard Manual 
 
 The **Community Dashboard** is available [here](https://dash-community.herokuapp.com/).
 
  ![dashboard](images/dashboard.png)
+ 
 
+  <br>
   
 
 - ### Instruments
@@ -111,6 +117,8 @@ The **Community Dashboard** is available [here](https://dash-community.herokuapp
 
 > ** It might take some time for initializatioin and update.
   
+
+<br>
 
 
 - ### Mapbox
@@ -134,6 +142,8 @@ The **Community Dashboard** is available [here](https://dash-community.herokuapp
    ![mapbox3](images/mapbox3.jpg)
 
 
+  <br>
+  
   
 - ### Histogram 
 
