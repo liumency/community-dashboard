@@ -1,6 +1,6 @@
 # Community Dashboard
 
-This is the repository for the [Community Dashboard](https://dash-community.herokuapp.com/), an app mapping the contruction year of chinese communities.
+This is the repository for the [Community Dashboard](https://dash-community.herokuapp.com/), an app mapping the contruction year of chinese communities.  
 
 
 
@@ -37,7 +37,7 @@ This is the repository for the [Community Dashboard](https://dash-community.hero
 
 
 
-\* Noted that **not all communities are involved**, due to the restriction on data acquisition.
+\* Noted that **not all communities are involved**, due to the restriction on data acquisition.  
 
 
 
@@ -47,13 +47,13 @@ Complete codes are provided in `app.py`.
 
 Before you can successfully run the program, you need to apply for an **accesstoken** from  [Mapbox](https://www.mapbox.com), and  add it at `Line 251`.
 
-![]() ![code](images/code.png)
+![]() ![code](images/code.png)  
 
 
 
 ## Deploy
 
-The app is deployed on [Heroku](https://dashboard.heroku.com/). 
+The app is deployed on [Heroku](https://dashboard.heroku.com/).  
 
 
 
@@ -82,7 +82,7 @@ heroku create dash-community
 git add .
 git commit -m 'My-commit-message'
 git push heroku main
-```
+```  
 
 
 
@@ -93,14 +93,14 @@ For more information about the deployment, please check the following **referenc
 * [Deploying Dash or Flask web application on Heroku](https://towardsdatascience.com/deploying-dash-or-flask-web-application-on-heroku-easy-ci-cd-4111da3170b8)
 
   ​
-
+  
 ## Dashboard Manual 
 
 The **Community Dashboard** is available [here](https://dash-community.herokuapp.com/).
 
  ![dashboard](images/dashboard.png)
 
-
+  
 
 - ### Instruments
 
@@ -110,7 +110,7 @@ The **Community Dashboard** is available [here](https://dash-community.herokuapp
 * The **histogram** counts the number of newly-built communities per year.
 
 > ** It might take some time for initializatioin and update.
-
+  
 
 
 - ### Mapbox
@@ -134,7 +134,7 @@ The **Community Dashboard** is available [here](https://dash-community.herokuapp
    ![mapbox3](images/mapbox3.jpg)
 
 
-
+  
 - ### Histogram 
 
   ### ![hist](images/hist.png)
