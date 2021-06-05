@@ -1,6 +1,6 @@
 # Community Dashboard
 
-- [ ] This is the repository for the [Community Dashboard](https://dash-community.herokuapp.com/), an app mapping the contruction year of chinese communities.
+This is the repository for the [Community Dashboard](https://dash-community.herokuapp.com/), an app mapping the contruction year of chinese communities.
 
 
 
