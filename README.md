@@ -51,7 +51,7 @@ Complete codes are provided in `app.py`.
 
 Before you can successfully run the program, you need to apply for an **accesstoken** from  [Mapbox](https://www.mapbox.com), and  add it at `Line 251`.
 
-![]() ![code](images\code.png)
+![]() ![code](images/code.png)
 
 
 
@@ -102,7 +102,7 @@ For more information about the deployment, please check the following **referenc
 
 The **Community Dashboard** is available [here](https://dash-community.herokuapp.com/).
 
- ![dashboard](images\dashboard.png)
+ ![dashboard](images/dashboard.png)
 
 
 
@@ -123,25 +123,25 @@ The **Community Dashboard** is available [here](https://dash-community.herokuapp
 
    Older communities are shown in darker color, while newer ones are shown in ligher color.
 
-   ![mapbox](images\mapbox.png)
+   ![mapbox](images/mapbox.png)
 
    ​
 
 2. Scroll to enlarge the map to check details of each community, including **name** and **year**.
 
-   ![mapbox2](images\mapbox2.jpg)
+   ![mapbox2](images/mapbox2.jpg)
 
    ​
 
 3. Change view by pressing the `Ctrl` and pulling the map with the left mouse button. 
 
-   ![mapbox3](images\mapbox3.jpg)
+   ![mapbox3](images/mapbox3.jpg)
 
 
 
 - ### Histogram 
 
-  ### ![hist](images\hist.png)
+  ### ![hist](images/hist.png)
 
 
 
@@ -154,24 +154,4 @@ The **Community Dashboard** is available [here](https://dash-community.herokuapp
 
 
 ### 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
