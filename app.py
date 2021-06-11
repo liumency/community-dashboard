@@ -160,7 +160,7 @@ sidebar = html.Div(
             ''', style={'color': colors['text']}),
 
 
-        html.Label('😊 Codes avalible at ', style={'color': colors['text2']}),
+        html.Label('😊 Codes available at ', style={'color': colors['text2']}),
 
         html.A(
             href='https://github.com/liumency/community-dashboard',
